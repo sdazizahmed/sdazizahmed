@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📫 How to reach me **syed.azizahmed21@gmail.com**
+- 📫 Reach me @ **syed.azizahmed21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
